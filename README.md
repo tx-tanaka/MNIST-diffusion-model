@@ -1,1 +1,2 @@
 # MNIST-diffusion-model
+Demo
