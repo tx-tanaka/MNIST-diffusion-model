@@ -28,7 +28,7 @@ Windows (PowerShell):
 
 ```powershell
 python -m venv .venv
-.venv\Scripts\Activate.ps1
+.venv\Scripts\Activate
 python -m pip install --upgrade pip
 ```
 
