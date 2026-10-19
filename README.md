@@ -11,8 +11,7 @@ minutes -- with correspondingly rougher digits.
 
 | Notebook | Contents |
 | --- | --- |
-| `reverse_time_diffusion_MNIST_homework.ipynb` | Parts A-D: forward OU diffusion, denoising score matching, U-Net training, reverse-time sampling |
-| `hw.ipynb` | Working notebook for the same material |
+| `reverse-time-diffusion-MNIST.ipynb` | Main script: forward diffusion, denoising score matching, U-Net training, reverse-time sampling |
 
 ## Requirements
 
